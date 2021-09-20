@@ -11,5 +11,5 @@
 <li>row-reverse</li>
 <li>column</li>
 <li>column-reverse</li>
-  
+</ul>
 <p>Should you choose row or row-reverse, your main axis will run along the row in the inline direction.</p>
