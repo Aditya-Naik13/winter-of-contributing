@@ -5,11 +5,11 @@
 <h2>How it works?</h2>
 <p>Flexbox deals with layout in one dimension at a time — either as a row or as a column.</P>
 <p>When working with flexbox you need to think in terms of two axes — the main axis and the cross axis. The main axis is defined by the flex-direction property, and the cross axis runs perpendicular to it. Everything we do with flexbox refers back to these axes, so it is worth understanding how they work from the outset.</p>
-<p>The main axis is defined by flex-direction, which has four possible values:
-
-row
-row-reverse
-column
-column-reverse
+<p>The main axis is defined by flex-direction, which has four possible values:</p>
+<ul>
+<li>row</li>
+<li>row-reverse</li>
+<li>column</li>
+<li>column-reverse</li>
   
-Should you choose row or row-reverse, your main axis will run along the row in the inline direction.</p>
+<p>Should you choose row or row-reverse, your main axis will run along the row in the inline direction.</p>
